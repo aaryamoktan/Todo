@@ -1,0 +1,45 @@
+.content{
+ 
+  align-items: center;
+}
+.admin-table{
+  display:flex;
+  justify-content: space-around;
+}
+.admin-subtitle{
+  position:relative;
+  font-size: 1.5rem;
+font-family:'Times New Roman', Times, serif;
+  font-weight: 300;
+ }
+ .add_user{
+  position:relative;
+  background:linear-gradient(45deg,rgb(193, 190, 230), rgb(164, 160, 229), rgb(127, 127, 232));
+  border:none;
+  border-radius: 10px;
+  font-size: larger;
+  cursor: pointer;
+  font-family: 'Courier New', Courier, monospace;
+ }
+ .ui{
+  position: relative;
+  text-align: center;
+  list-style: none; 
+  color:rgb(102, 100, 100);
+  font-size: 1.2rem;
+  font-family:'Times New Roman', Times, serif
+ }
+ .Delete_user{
+  position:relative;
+  text-align: center;
+  color:rgb(97, 97, 97);
+  background: linear-gradient(90deg,rgb(212, 127, 127),rgb(205, 89, 89),rgb(193, 9, 9));
+  font-size: 1.6rem;
+  
+ }
+ .admin-subtitle{
+  position:relative;
+  font-family: 25px;
+  color:rgb(36, 35, 35);
+  font-family:'Times New Roman', Times, serif
+ }
